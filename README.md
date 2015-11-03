@@ -6,4 +6,6 @@ eProject Status emails should be sent at 18th and 28th of November containing Re
 
 Notes:
 
+This Project looks like Meetup.com clone in C#
+
 Hardware and Software Requirements are for java project 
