@@ -1,0 +1,37 @@
+Standards plan:  
+Every code block must have comments.  
+The logic of the program needs to be explained. Proper documentation should be maintained.  
+Complete Project Report along with synopsis, code and documentation should be prepared.  
+
+
+Documentation:  
+
+No project is complete without documentation. In fact, it is one of the most
+important activities during the development of a project. The documentation of
+an ideal project will be in the form of a project report comprising of the following documents:   
+Certificate of Completion.  
+Table of Contents.  
+Problem Definition.   
+Customer Requirement Specification.   
+Project Plan.  
+E-R Diagrams.  
+Algorithms.  
+GUI Standards Document.  
+Interface Design Document.  
+Task Sheet.  
+Project Review and Monitoring Report.  
+Unit Testing Check List.  
+Final Check List. 
+
+
+Deliverables    
+You need to submit the following Deliverables:  
+1. Hardbound Documentation of the project.  
+2. You need to follow all the following points as a part of your eProjects execution process and will carry 10 marks in the final eProject Result.   
+a) Send us two eProjects status mails, each should be after 10 days interval from your eProjects start date.  
+b) The status mail should consist of description with review document        (what's going on the project). Also you can send your doubts / clarification or any additional inputs required to complete your eproject any time during the project planning and execution.  
+c) At the time of project submission also send us the feedback along              with your documentation (soft and hard bound copy). The Feedback form is attached with this mail.   
+
+Remember that the subject of your email should start either with the word STATUS: or DOUBT: accordingly..  
+
+Note : Kindly go through the Read Me.txt file, which is available in the project specification Zip folder, Which contains the information of the E - Project Process, Interaction and Submission of E - Projects 
